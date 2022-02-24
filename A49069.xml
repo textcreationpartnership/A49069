@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the mayor the right honourable the lord mayor of the City of London, taking especial notice of inordinate liberty now used by vagrants and common beggars to wander about and pester the streets and common passage of this city ... and His Lordship deeply resenting the great fault and neglect of constables and other officers in not performing their duty to clear and free the streets and publick places from this living nuisance ...</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49069</idno>
+            <idno type="STC">Wing L2885V</idno>
+            <idno type="STC">ESTC R41296</idno>
+            <idno type="EEBO-CITATION">31354837</idno>
+            <idno type="OCLC">ocm 31354837</idno>
+            <idno type="VID">110272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110272)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1745:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the mayor the right honourable the lord mayor of the City of London, taking especial notice of inordinate liberty now used by vagrants and common beggars to wander about and pester the streets and common passage of this city ... and His Lordship deeply resenting the great fault and neglect of constables and other officers in not performing their duty to clear and free the streets and publick places from this living nuisance ...</title>
+                  <author>City of London (England). Lord Mayor.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark, Printer to the Honourable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information from first paragraph of text.</note>
+                  <note>"Dated at Guildhall, this Thirteenth day of October, 1676. and in the Eight and Twentieth Year of His Majesties Reign."</note>
+                  <note>Reproduction of original in Guildhall Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vagrancy --  England --  London.</term>
+               <term>Rogues and vagabonds --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110272:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms</figDesc>
+               </figure>By the Major.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Right Honourable the Lord Major having taken into his ſerious Conſideration the many dreadful Afflictions, which this City hath of late years ſuffered, by a raging Plague, a moſt un<g ref="char:EOLhyphen"/>heard of devouring Fire, and otherwiſe: And juſtly fearing that the ſame have been occaſioned by the many hainous crying Sins and Provocations to the Divine Majeſty: And his Lordſhip alſo conſidering the preſent dangers of greater miſchiefs and miſery which ſeem ſtill to threat<g ref="char:EOLhyphen"/>en this City, if the execution of the Righteous Iudgments of God Almighty be not prevented by an univerſal timely Repentance and Reformation: He hath therefore thought it one duty of his Office, being intruſted to take all poſſible care for the good Government, Peace, and Wel<g ref="char:EOLhyphen"/>fare of this City, Firſt, to pray and perſwade all and every the Inhabitants thereof to reform in themſelves and Families all Sins and Enormities whereof they know themſelves to be guilty: And if neither the Fear of the Great God nor of his Impending Iudgments ſhall prevail upon them; He ſhall be obliged to let them know, that as he is their Chief Magiſtrate, he ought not to bear the Sword in vain: And therefore doth reſolve by Gods Grace to take the Aſſiſtance of his Brethren the Aldermen, and to require the aid of all the Officers of this City in their ſeveral places, to Puniſh and Suppreſs according to the Laws of the Land and the good Cuſtoms of this City, thoſe Scandalous and Provoking Sins which have of late encreaſed and abounded amongſt Vs, even without ſhame, to the diſhonour of Chriſtianity and the Scandal of the Government of this City, heretofore ſo famous over the World, for its Piety, Sobriety, and good Order.</p>
+            <p>To the end therefore that the Laws may become a Terror unto Evil doers, and that ſuch, in whoſe hearts the fear of God, and the love of Virtue ſhall not prevail, (being fore-warned) may amend their Lives for fear of puniſhment; His Lordſhip hath thought fit to remember them of ſeveral Penalties provided by Law againſt notorious Offenders: As alſo all Conſtables and Publick Officers (who are to put the ſaid Laws in Execution) of their Duty therein;
+<pb facs="tcp:110272:2" rendition="simple:additions"/> known by the parties confeſſion or otherwiſe; or if it be not known, then to the Pariſhes where they laſt dwelt, before the ſame puniſhment, by the ſpace of one whole year; or if that cannot be well known, then to the Pariſhes to which they laſt paſſed without puniſhment. Alſo that every Inhabitant do apprehend ſuch Beggars, <hi>&amp;c.</hi> as he ſhall know to reſort to his houſe, to beg or receive alms, and carry or cauſe them to be carried to the next Conſtable, who is there<g ref="char:EOLhyphen"/>upon to puniſh and paſs away ſuch Beggar as aforeſaid, upon the ſevereſt penalties to be in<g ref="char:EOLhyphen"/>flicted upon every ſuch Conſtable for their failure herein: And that the Dwellings of all Con<g ref="char:EOLhyphen"/>ſtables may be known, and themſelves more readily found, they are forthwith to have their Staffs duly placed or fixed at their Street-doors in open view of all Paſſengers; and them<g ref="char:EOLhyphen"/>ſelves to remain conſtannly at home, or leave ſome other fit and able perſons to perform their Office in their abſence. And his Lordſhip having thus reminded the ſaid Conſtables of their Duty in this particular, he doth alſo declare that he expects all ready Conformity to be yiel<g ref="char:EOLhyphen"/>ded hereunto; in default whereof the Penalties appointed by Law ſhall certainly be inflicted upon them: And to this end the Marſhals of this City, and their men, and the Beadles of the ſeveral Wards are required to take notice of and preſent to hie the Names of all ſuch Conſtables whom they ſhall find remiſs and negligent of their Duty in this ſervice: But it is hoped that the ſaid Conſtables upon this publick Admonition, will rather in conſcience of their Duty, and for ſo great and publick a Benefit, readily acquit themſelves in this mat<g ref="char:EOLhyphen"/>ter as becomes honeſt and worthy Citizens, than conſtrain the inflicting of Penalties upon them for neglect of their Duty. And the ſaid Marſhals and Beadles are alſo to be very care<g ref="char:EOLhyphen"/>ful and induſtrious to avoid the ſaid Vagrants, and bring them to Puniſhment in manner as aforeſaid.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at <hi>Guildhall,</hi>
+                  </hi> 
+                  <date>this <hi>Thirteenth day of <hi>October,</hi> 1676. and in the Eight and Twentieth Year of His Majeſties Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honourable City of <hi>LONDON.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
